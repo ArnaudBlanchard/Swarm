@@ -21,7 +21,6 @@ Pour le coté jeu de stratégie au tour par tour, interface graphique mais sinon
 Plein de créatures qui interagissent avec des actions élémentaires. La encore c'est le joueur qui décide, dans notre cas les créatures devraient apprendre à prendre les bonnes décisions ou mourir.
 - [Starcraft](http://fr.wikipedia.org/wiki/StarCraft)
 Pour le coté jeu de stratégie temps réel.
-- [Bacterium](http://www.youtube.com/watch?v=AWvLDMNEKA0)
 - [NERO - Neuro-Evolving Robotic Operatives](http://nerogame.org) 
 - [Framsticks](http://www.framsticks.com)
 
