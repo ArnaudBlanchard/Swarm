@@ -70,6 +70,8 @@ Pour le coté jeu de stratégie temps réel.
 Les fourmis
 -----------
 
+Exemples plus précis sur l'évolution des fourmis
+
 - [Évolution d’une symbiose obligatoire : les fourmis agricultrices de Fidji](https://planet-vie.ens.fr/article/2372/evolution-symbiose-obligatoire-fourmis-agricultrices-fidji)
 - [Un avenir sans fourmis ?](http://un-avenir-sans-fourmis.e-monsite.com) de Jérémy Octeau et Jérémy Klotz
 - [L'ancêtre des fourmis](https://www.sciencesetavenir.fr/nature-environnement/l-ancetre-des-fourmis_4160)
@@ -78,10 +80,6 @@ Les fourmis
 - [L'origine et l'essor des fourmis](https://www.lairedu.fr/media/video/conference/lorigine-et-lessor-des-fourmis/)
 - [Super regroupement de liens](http://www.cndp.fr/evolution-des-especes/accueil.html)
 - [Aux origines de la vie](http://www.dailymotion.com/video/xue86x)
-
-Videos
--------
-- [Le cycle de la vie](http://www.dailymotion.com/video/x3t3nqd)
 
 Articles CNRS
 --------------
